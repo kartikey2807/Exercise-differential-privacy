@@ -1,0 +1,12 @@
+account,subject_id,bank,customer_group
+A1,S1,Bank_A,A-primary
+A2,S1,Bank_A,A-primary
+A3,S2,Bank_A,A-primary and cross-bank
+B1,S2,Bank_B,A-primary and cross-bank
+A4,S3,Bank_A,A-primary and cross-bank
+B2,S3,Bank_B,A-primary and cross-bank
+A5,S4,Bank_A,A-primary
+A6,S5,Bank_A,A-primary
+A7,S6,Bank_A,A-primary
+B3,S7,Bank_B,B-primary
+B4,S8,Bank_B,B-primary
